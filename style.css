@@ -1,0 +1,14 @@
+@font-face {
+  font-family: montserrat;
+  src: url('./font/Montserrat-Medium.ttf') format('ttf');
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+body {
+  font-family: montserrat;
+}
